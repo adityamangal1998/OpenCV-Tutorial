@@ -1,6 +1,7 @@
 # OpenCV-Tutorial
 Learn OpenCV for Face Recognition,Hand Gesture,etc projects with easy codes.Do changes in the code and learn how the methods and attributes work
 Learn from basic syntax of OpenCV and then move to advanced
+Basics like :
 Cv2.imread()
 Cv2.imshow()
 Cv2.imwrite()
